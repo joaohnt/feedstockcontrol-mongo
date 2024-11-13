@@ -3,7 +3,6 @@ package com.racoes.demo.services;
 import com.racoes.demo.domain.Produto;
 import com.racoes.demo.dto.ProdutoDTO;
 import com.racoes.demo.repositories.ProdutoRepository;
-import com.racoes.demo.resources.ProdutoResource;
 import com.racoes.demo.services.exceptions.ObjectNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
